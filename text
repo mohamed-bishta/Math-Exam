@@ -1,0 +1,8 @@
+1 - random qu;
+2 - add click evntlethnar
+3 - check claer, inter, number;
+    - if claer, emty input;
+    - if inter valdet anther;
+        - if courect incres scor by 10 - random qu;
+        - if rong exset;
+    - if number or -; dispaly in input;
